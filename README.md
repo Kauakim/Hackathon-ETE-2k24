@@ -8,7 +8,7 @@ O projeto foi criado com o propósito de gerar alegria em seus usuários, combin
 
 </br>
 <div align="center">
-  <img src="./Hackathon.png" alt="Foto do Grupo com o Projeto" width="600">
+  <img src="./Hackathon.png" alt="Foto da parte superior do projeto" width="600">
 </div>
 </br>
 
